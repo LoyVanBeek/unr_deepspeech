@@ -1,4 +1,5 @@
-from deepspeech import Model
+
+from deepspeech.model import Model
 import sys
 import wave
 import struct
